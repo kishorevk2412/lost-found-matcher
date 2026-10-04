@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054707095553",
+    "project_id": "lostfoundmatcher-78ea8",
+    "storage_bucket": "lostfoundmatcher-78ea8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054707095553:android:1755c6d50c3b48a6958800",
+        "android_client_info": {
+          "package_name": "com.example.intro_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcHfXEei4jneM62rFbHlMWa9AE9SsUZys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
